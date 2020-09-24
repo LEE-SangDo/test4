@@ -1,0 +1,2 @@
+﻿  소스3.cpp
+C:\Users\이상도\source\repos\Project11\Project11\소스3.cpp(55): error C4700: 초기화되지 않은 'z' 지역 변수를 사용했습니다.
